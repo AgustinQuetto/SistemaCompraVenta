@@ -1,0 +1,9 @@
+c:\users\agustín\documents\visual studio 2017\Projects\SistemaCompraVenta\UnitTesting\bin\Debug\UnitTesting.exe.config
+c:\users\agustín\documents\visual studio 2017\Projects\SistemaCompraVenta\UnitTesting\bin\Debug\UnitTesting.exe
+c:\users\agustín\documents\visual studio 2017\Projects\SistemaCompraVenta\UnitTesting\bin\Debug\UnitTesting.pdb
+c:\users\agustín\documents\visual studio 2017\Projects\SistemaCompraVenta\UnitTesting\bin\Debug\SistemaCompraVenta.dll
+c:\users\agustín\documents\visual studio 2017\Projects\SistemaCompraVenta\UnitTesting\bin\Debug\SistemaCompraVenta.pdb
+c:\users\agustín\documents\visual studio 2017\Projects\SistemaCompraVenta\UnitTesting\obj\Debug\UnitTesting.csprojResolveAssemblyReference.cache
+c:\users\agustín\documents\visual studio 2017\Projects\SistemaCompraVenta\UnitTesting\obj\Debug\UnitTesting.csproj.CoreCompileInputs.cache
+c:\users\agustín\documents\visual studio 2017\Projects\SistemaCompraVenta\UnitTesting\obj\Debug\UnitTesting.exe
+c:\users\agustín\documents\visual studio 2017\Projects\SistemaCompraVenta\UnitTesting\obj\Debug\UnitTesting.pdb

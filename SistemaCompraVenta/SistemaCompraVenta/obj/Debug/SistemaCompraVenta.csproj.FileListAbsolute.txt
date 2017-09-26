@@ -1,0 +1,6 @@
+c:\users\agustín\documents\visual studio 2017\Projects\SistemaCompraVenta\SistemaCompraVenta\obj\Debug\SistemaCompraVenta.csprojResolveAssemblyReference.cache
+c:\users\agustín\documents\visual studio 2017\Projects\SistemaCompraVenta\SistemaCompraVenta\obj\Debug\SistemaCompraVenta.csproj.CoreCompileInputs.cache
+c:\users\agustín\documents\visual studio 2017\Projects\SistemaCompraVenta\SistemaCompraVenta\bin\Debug\SistemaCompraVenta.dll
+c:\users\agustín\documents\visual studio 2017\Projects\SistemaCompraVenta\SistemaCompraVenta\bin\Debug\SistemaCompraVenta.pdb
+c:\users\agustín\documents\visual studio 2017\Projects\SistemaCompraVenta\SistemaCompraVenta\obj\Debug\SistemaCompraVenta.dll
+c:\users\agustín\documents\visual studio 2017\Projects\SistemaCompraVenta\SistemaCompraVenta\obj\Debug\SistemaCompraVenta.pdb
