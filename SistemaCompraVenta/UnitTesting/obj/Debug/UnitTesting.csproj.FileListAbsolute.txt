@@ -7,3 +7,12 @@ c:\users\agustín\documents\visual studio 2017\Projects\SistemaCompraVenta\UnitT
 c:\users\agustín\documents\visual studio 2017\Projects\SistemaCompraVenta\UnitTesting\obj\Debug\UnitTesting.csproj.CoreCompileInputs.cache
 c:\users\agustín\documents\visual studio 2017\Projects\SistemaCompraVenta\UnitTesting\obj\Debug\UnitTesting.exe
 c:\users\agustín\documents\visual studio 2017\Projects\SistemaCompraVenta\UnitTesting\obj\Debug\UnitTesting.pdb
+C:\Users\Agustín\Documents\GitHub\SistemaCompraVenta\SistemaCompraVenta\UnitTesting\bin\Debug\UnitTesting.exe.config
+C:\Users\Agustín\Documents\GitHub\SistemaCompraVenta\SistemaCompraVenta\UnitTesting\bin\Debug\UnitTesting.exe
+C:\Users\Agustín\Documents\GitHub\SistemaCompraVenta\SistemaCompraVenta\UnitTesting\bin\Debug\UnitTesting.pdb
+C:\Users\Agustín\Documents\GitHub\SistemaCompraVenta\SistemaCompraVenta\UnitTesting\bin\Debug\SistemaCompraVenta.dll
+C:\Users\Agustín\Documents\GitHub\SistemaCompraVenta\SistemaCompraVenta\UnitTesting\bin\Debug\SistemaCompraVenta.pdb
+C:\Users\Agustín\Documents\GitHub\SistemaCompraVenta\SistemaCompraVenta\UnitTesting\obj\Debug\UnitTesting.csprojResolveAssemblyReference.cache
+C:\Users\Agustín\Documents\GitHub\SistemaCompraVenta\SistemaCompraVenta\UnitTesting\obj\Debug\UnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\Agustín\Documents\GitHub\SistemaCompraVenta\SistemaCompraVenta\UnitTesting\obj\Debug\UnitTesting.exe
+C:\Users\Agustín\Documents\GitHub\SistemaCompraVenta\SistemaCompraVenta\UnitTesting\obj\Debug\UnitTesting.pdb

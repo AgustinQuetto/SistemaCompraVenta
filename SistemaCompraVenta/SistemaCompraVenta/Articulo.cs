@@ -57,7 +57,7 @@ namespace SistemaCompraVenta
 
         public bool HayStock(int cantidad)
         {
-            if (this._stock <= cantidad)
+            if (this._stock >= cantidad)
             {
                 return true;
             }
@@ -71,7 +71,7 @@ namespace SistemaCompraVenta
 
         public static bool operator !=(Articulo uno, Articulo dos)
         {
-            return !(uno == dos);
+            return !(uno.NombreYCodigo == dos.NombreYCodigo);
         }
 
         public static int operator +(Articulo uno, Articulo dos)

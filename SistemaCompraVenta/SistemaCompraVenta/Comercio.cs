@@ -29,7 +29,7 @@ namespace SistemaCompraVenta
         {
             double total = 0;
 
-            foreach(Venta venta in comercio._misVentas)
+            foreach (Venta venta in comercio._misVentas)
             {
                 total += venta.RetornarGanancia();
             }
@@ -39,18 +39,18 @@ namespace SistemaCompraVenta
 
         public void ComprarArticulo(Articulo articuloComprado)
         {
-            bool found = false;
+            int found = 0;
             foreach (Articulo articulo in this._misArticulos)
             {
-                if(articulo == articuloComprado)
+                if (articulo == articuloComprado)
                 {
                     articulo.Stock = articulo + articuloComprado;
-                    found = true;
+                    found = 1;
                     break;
                 }
             }
 
-            if (!found)
+            if (found == 0)
             {
                 this._misArticulos.Add(articuloComprado);
             }
@@ -58,20 +58,35 @@ namespace SistemaCompraVenta
 
         public void VenderArticulo(Articulo articulo, int cantidad)
         {
+            int flag = 0;
             foreach (Articulo articuloFor in this._misArticulos)
             {
-                if (articuloFor == articulo && articulo.HayStock(cantidad))
+                if (articuloFor == articulo)
                 {
-                    articulo.Stock = articuloFor - cantidad;
-                    Venta venta = new Venta(articuloFor, cantidad);
-                    break;
+                    if (articulo.HayStock(cantidad))
+                    {
+                        flag = 1;
+                        articulo.Stock = articuloFor - cantidad;
+                        Venta venta = new Venta(articuloFor, cantidad);
+                        this._misVentas.Add(venta);
+                        break;
+                    }
+                    else
+                    {
+                        Console.WriteLine("El siguiente producto no tiene stock para la venta:");
+                        Console.WriteLine(articulo.NombreYCodigo);
+                    }
                 }
                 /*else
                 {
                     Console.WriteLine("No se encuentran coincidencias o no hay stock.");
                 }*/
             }
-                Console.WriteLine("No se encuentran coincidencias.");
+            if (flag == 0)
+            {
+                Console.WriteLine("El siguiente producto no existe.");
+                Console.WriteLine(articulo.NombreYCodigo);
+            }
         }
     }
 }
