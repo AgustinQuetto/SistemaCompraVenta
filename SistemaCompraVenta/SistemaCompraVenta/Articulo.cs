@@ -82,7 +82,8 @@ namespace SistemaCompraVenta
 
         public static int operator -(Articulo uno, int cantidad)
         {
-            return 0;
+            int _stock = uno._stock - cantidad;
+            return _stock;
         }
     }
 }
