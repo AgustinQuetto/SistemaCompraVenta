@@ -51,7 +51,7 @@ namespace SistemaCompraVenta
         {
             this._codigo = codigo;
             this._nombre = nombre;
-            this._precioCosto = precioCosto;
+            PrecioCosto = precioCosto;
             this._stock = cantidad;
         }
 
